@@ -12,12 +12,21 @@ GitHub profilime hoş geldiniz! İşte kim olduğum ve neler yaptığım hakkın
 
 ---
 
-### 🔬 Teknoloji Yığınım:
-- **Diller:** C#, JavaScript, SQL
-- **Frontend:** React, HTML, CSS
-- **Backend:** ASP.NET Core, Node.js
-- **Veritabanları:** SQL Server
-- **Araçlar:** Visual Studio, Git, Postman
+## 💼 Teknik Beceriler
+
+<table>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -42,7 +51,12 @@ Daha fazlasını [repo sekmemde](https://github.com/nisanurisik?tab=repositories
 
 ### ☑️ İletişime Geçelim:
 - ✉ E-posta: [nisanurisik2@gmail.com](mailto:nisanurisik2@gmail.com)
-- 🔗 LinkedIn: [https://www.linkedin.com/in/nisanurisik](https://www.linkedin.com/in/nisanurisik)
+- <p>
+  <a href="https://linkedin.com/in/nisanurisik" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
 
 ---
 ## 📊 GitHub İstatistikleri:
