@@ -2,7 +2,7 @@
 
 GitHub profilime hoş geldiniz!
 
-🎓 Full-Stack Geliştirici
+🎓 **Full-Stack Geliştirici**yim.  
 ---
 
 ## 💼 Teknik Beceriler
