@@ -37,12 +37,12 @@ Daha fazlasını [repo sekmemde](https://github.com/nisanurisik?tab=repositories
 ---
 
 ### ☑️ İletişime Geçelim:
--<p>
+<p>
   <a href="mailto:nisanurisik2@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/E--posta-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-posta" />
   </a>
 </p>
-- <p>
+<p>
   <a href="https://linkedin.com/in/nisanurisik" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
