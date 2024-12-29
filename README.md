@@ -2,10 +2,8 @@
 
 GitHub profilime hoş geldiniz!
 
-🎓 **Full-Stack Geliştirici**yim.  
+*Full-Stack Geliştirici*yim.  
 ---
-
-
 
 ## 💼 Teknik Beceriler
 
@@ -37,21 +35,6 @@ doğrulama sistemi sağlandı.
 Daha fazlasını [repo sekmemde](https://github.com/nisanurisik?tab=repositories) bulabilirsiniz!
 
 ---
-
-### ☑️ İletişime Geçelim:
-<p>
-  <a href="mailto:nisanurisik2@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/E--posta-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-posta" />
-  </a>
-</p>
-<p>
-  <a href="https://linkedin.com/in/nisanurisik" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
-
----
 ## 📊 GitHub İstatistikleri:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nisanurisik&show_icons=true&theme=radical)
 
@@ -61,5 +44,13 @@ Daha fazlasını [repo sekmemde](https://github.com/nisanurisik?tab=repositories
 
 ---
 
+### ☑️ İletişime Geçelim:
+
+  <a href="https://linkedin.com/in/nisanurisik" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
 GitHub profilimi ziyaret ettiğiniz için teşekkür ederim! 🚀
 
