@@ -1,15 +1,7 @@
 ### Merhaba! Ben Nisanur 👋
 
-GitHub profilime hoş geldiniz! İşte kim olduğum ve neler yaptığım hakkında kısa bir özet:
-
----
-
-### ✨ Hakkımda:
-- 🎓 **Full-Stack Geliştirici:** Dinamik ve ölçeklenebilir web uygulamaları oluşturma konusunda tutkuluyum.
-- 🏢 **Deneyim:**
-  - WebCrafters Full-Stack Bootcamp mezunu (Techcareer.net).
-  - Türkiye Halkbank A.Ş.'de staj, C# ve ASP.NET alanında uzmanlaşma.
-
+GitHub profilime hoş geldiniz!
+🎓 **Full-Stack Geliştirici**
 ---
 
 ## 💼 Teknik Beceriler
@@ -40,12 +32,6 @@ Bu sitede bloglar için CRUD işlemleri, filtreleme ve arama işlemi yapıldı. 
 doğrulama sistemi sağlandı.
 
 Daha fazlasını [repo sekmemde](https://github.com/nisanurisik?tab=repositories) bulabilirsiniz!
-
----
-
-### 🎨 Üzerinde Çalıştıklarım:
-- ASP.NET Core ile gelişmiş React özelliklerini entegre eden yeni bir proje.
-- Ölçeklenebilir uygulamalar için bulut dağıtım seçeneklerini keşfetmek.
 
 ---
 
